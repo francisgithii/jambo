@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="franc.css" style="text/css">
 </head>
-<body>
+<body background="https://myleader.githiiki.awsps.myinstance.com/background.jpg">
 <table id='table' align="center" >
 <tr>
 <td id=link><h1>TENDER-cf</h1></td></tr>
@@ -27,7 +27,7 @@ if (isset($_POST['submit1'])){
    $user_name = "admin";
 	$password = "#R4RY~}mXRe;mt5D";
 	$database = "konvergenz";
-	$server = "database-2.ckcysvomqjoq.eu-west-2.rds.amazonaws.com";
+	$server = "jambo.cpdnlleq7c3h.eu-west-1.rds.amazonaws.com";
 	$message='';
 	$week=date('W');
 
