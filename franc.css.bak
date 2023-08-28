@@ -25,6 +25,5 @@ color:#FFFAF0;
 }
 
 #table{
- border: 1px solid black;
-
+border:solid #999999;
 }
